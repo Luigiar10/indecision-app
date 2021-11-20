@@ -1,4 +1,4 @@
-# counter-app
+# Indecisión App
 
 ## Project setup
 ```
