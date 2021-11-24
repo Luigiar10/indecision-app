@@ -1,7 +1,7 @@
 <template>
   <h2>{{ checkTitle }}</h2>
   <p>{{counter}} <sup>2</sup> = {{ mathForm }}</p>
-  <button class="btn" @click="plusNumber()">Sumar</button>
+  <button class="btn btn-danger" @click="plusNumber()">Sumar</button>
   <button class="btn" v-on:click="minusNumber()">Restar</button>
 </template>
 
